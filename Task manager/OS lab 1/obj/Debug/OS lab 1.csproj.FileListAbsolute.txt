@@ -1,0 +1,21 @@
+c:\users\temka\documents\visual studio 2015\Projects\OS lab 1\OS lab 1\bin\Debug\OS lab 1.exe.config
+c:\users\temka\documents\visual studio 2015\Projects\OS lab 1\OS lab 1\bin\Debug\OS lab 1.exe
+c:\users\temka\documents\visual studio 2015\Projects\OS lab 1\OS lab 1\bin\Debug\OS lab 1.pdb
+c:\users\temka\documents\visual studio 2015\Projects\OS lab 1\OS lab 1\obj\Debug\OS lab 1.csprojResolveAssemblyReference.cache
+c:\users\temka\documents\visual studio 2015\Projects\OS lab 1\OS lab 1\obj\Debug\OS_lab_1.Form1.resources
+c:\users\temka\documents\visual studio 2015\Projects\OS lab 1\OS lab 1\obj\Debug\OS_lab_1.Properties.Resources.resources
+c:\users\temka\documents\visual studio 2015\Projects\OS lab 1\OS lab 1\obj\Debug\OS lab 1.csproj.GenerateResource.Cache
+c:\users\temka\documents\visual studio 2015\Projects\OS lab 1\OS lab 1\obj\Debug\OS lab 1.exe
+c:\users\temka\documents\visual studio 2015\Projects\OS lab 1\OS lab 1\obj\Debug\OS lab 1.pdb
+c:\users\temka\documents\visual studio 2015\Projects\OS lab 1\OS lab 1\obj\Debug\OS_lab_1.Threadscs.resources
+C:\Users\user\Desktop\OS lab 1\OS lab 1\bin\Debug\OS lab 1.exe.config
+C:\Users\user\Desktop\OS lab 1\OS lab 1\bin\Debug\OS lab 1.exe
+C:\Users\user\Desktop\OS lab 1\OS lab 1\bin\Debug\OS lab 1.pdb
+C:\Users\user\Desktop\OS lab 1\OS lab 1\obj\Debug\OS lab 1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\OS lab 1\OS lab 1\obj\Debug\OS_lab_1.Form1.resources
+C:\Users\user\Desktop\OS lab 1\OS lab 1\obj\Debug\OS_lab_1.Properties.Resources.resources
+C:\Users\user\Desktop\OS lab 1\OS lab 1\obj\Debug\OS_lab_1.Threadscs.resources
+C:\Users\user\Desktop\OS lab 1\OS lab 1\obj\Debug\OS lab 1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\OS lab 1\OS lab 1\obj\Debug\OS lab 1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OS lab 1\OS lab 1\obj\Debug\OS lab 1.exe
+C:\Users\user\Desktop\OS lab 1\OS lab 1\obj\Debug\OS lab 1.pdb
